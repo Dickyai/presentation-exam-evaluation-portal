@@ -65,7 +65,7 @@ Sistem demo ditujukan terutama untuk simulasi alur kerja ASISTEN dan OPERATOR, b
 
 ### 2.2 Role-Based Access
 
-```text
+```
                      PRESENTATION EXAM PORTAL
                               |
                      +--------+--------+
@@ -98,12 +98,19 @@ Tidak terdapat akses praktikan pada konfigurasi saat ini karena sistem difokuska
 
 Gunakan akun berikut hanya untuk kebutuhan demonstrasi:
 
-```text
-Role     : Admin
-Token    : BUD-4821KLM
 
-Role     : Admin
-Token    : BUK-PCN-999
+Role     : Admin 1
+
+Token
+```
+BUD-4821KLM
+```
+
+Role     : Admin 2
+
+Token
+```
+BUK-PCN-999
 ```
 
 Token tersebut merupakan kredensial DEMO. Untuk repositori publik, token sebaiknya dianggap sebagai kredensial sementara dan tidak digunakan untuk lingkungan produksi.
